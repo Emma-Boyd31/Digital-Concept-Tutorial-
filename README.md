@@ -1,3 +1,4 @@
 # Cybersecurity Basics
-**By:Emma Boyd**
+**By: Emma Boyd**
+**Purpose:** 
 
