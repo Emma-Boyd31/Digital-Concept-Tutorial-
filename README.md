@@ -1,5 +1,6 @@
 # Cybersecurity Basics
 **By: Emma Boyd**
 
-**Purpose** :
+**Purpose**:
 
+**Target Audience**: 
