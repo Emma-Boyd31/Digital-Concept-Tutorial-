@@ -1,2 +1,2 @@
-# Cybersecurity 
-By: Emma Boyd
+# Cybersecurity Basics
+**By:** Emma Boyd
