@@ -9,4 +9,7 @@
 ## Table of Contents
 1. [Introduction to Cybersecurity](introduction.md)
 2. [Important Terms Related to Cybersecurity](terms.md)
+3. [Safe Practices for Cybersecurity](terms.md)
+4. [Important Terms Related to Cybersecurity](terms.md)
+5. [Important Terms Related to Cybersecurity](terms.md)
    
