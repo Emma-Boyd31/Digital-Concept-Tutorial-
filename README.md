@@ -10,6 +10,6 @@
 1. [Introduction to Cybersecurity](introduction.md)
 2. [Important Terms Related to Cybersecurity](terms.md)
 3. [Safe Practices for Cybersecurity](practice.md)
-4. [Important Terms Related to Cybersecurity](terms.md)
+4. [Types of Malware](malware.md)
 5. [Important Terms Related to Cybersecurity](terms.md)
    
