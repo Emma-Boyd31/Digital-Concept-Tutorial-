@@ -7,3 +7,4 @@ Cybersecurity is defined by Cisco as the practice of protecting systems, network
 
 ---
 ## Why is Cybersecurity important?
+Cybersecurity is important in order to keep ones data and information online secure. The 
