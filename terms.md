@@ -3,7 +3,7 @@ A strong understanding of cybersecurity begins with learning the key terms and c
 
 ---
 ## Top 10 Terms and Definitions: 
-Definitions brought to you by: [NICCS](https://niccs.cisa.gov/cybersecurity-career-resources/vocabulary#explore-terms-a-glossary-of-common-cybersecurity-words-and-phrases)
+Definitions brought to you by: [NICCS: National Initiative for Cybersecurity Careers and Studies](https://niccs.cisa.gov/cybersecurity-career-resources/vocabulary#explore-terms-a-glossary-of-common-cybersecurity-words-and-phrases)
 
 1. **Malware**:
    
