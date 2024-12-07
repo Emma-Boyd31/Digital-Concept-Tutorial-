@@ -27,9 +27,9 @@ Definitions brought to you by: [NICCS: National Initiative for Cybersecurity Car
 
 ---
 ### Where do you want to go?
-[To the Next Page](practice.md)
+[To the Next Page: Safe Practices](practice.md)
 
-[To the Previous Page](introduction.md)
+[To the Previous Page: Introduction](introduction.md)
 
 [Back to Home Page](README.md)
 
