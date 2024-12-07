@@ -22,7 +22,7 @@ Definitions brought to you by:
 8. **Two-Factor Authentication**:
 
 ### Where do you want to go?
-[To the Next Page](terms.md)
+[To the Next Page](practices.md)
 
 [To the Previous Page](terms.md)
 
