@@ -4,6 +4,14 @@ There are various types of cybersecurity threats, each posing different risks to
 ---
 ## Well-Known Threats
 
+1. Malware
+2. Phishing
+3. Man-in-the-Middle
+4. Denial-of-Service
+5. SQL Injection
+6. Zero-Day Exploit
+7. DNS Tunneling
+
 ---
 ### Where do you want to go?
 [To the Next Page: Safe Password Tutorial](tutorial.md)
