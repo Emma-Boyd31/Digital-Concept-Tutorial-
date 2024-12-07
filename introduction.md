@@ -10,8 +10,8 @@ Cybersecurity is essential for safeguarding personal data and information from t
 
 ## Who Needs Cybersecurity?
 1. Individuals
-2. Buisnesses
-3. Goverments
+2. Businesses
+3. Governments
 4. EVERYBODY
 
 ---
