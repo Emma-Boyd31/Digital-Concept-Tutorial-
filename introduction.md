@@ -10,5 +10,6 @@ Cybersecurity is important in order to keep ones data and information online sec
 
 ---
 ### Where do you want to go?
-
+[Back to Home Page](ReadMe.md)
+[To the Next Page](terms.md)
 
