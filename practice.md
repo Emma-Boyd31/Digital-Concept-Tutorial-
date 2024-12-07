@@ -14,9 +14,9 @@
 
 ---
 ### Where do you want to go?
-[To the Next Page](practice.md)
+[To the Next Page](threats.md)
 
-[To the Previous Page](introduction.md)
+[To the Previous Page](terms.md)
 
 [Back to Home Page](README.md)
 
