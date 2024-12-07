@@ -1,4 +1,6 @@
 # Safe Practices for Cybersecurity 
+There are many strategies and practices to keep information safe in today’s digital world. Below is a  list of some of the most important practices to help both your personal information and others safe. By using these techniques, you can contribute to an improved online environment.
+
 ---
 ## 10 Safe Practices
 1. Unique and Strong Passwords
