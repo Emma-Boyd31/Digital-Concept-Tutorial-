@@ -16,7 +16,7 @@ Cybersecurity is essential for safeguarding personal data and information from t
 
 ---
 ### Where do you want to go?
-[To the Next Page](terms.md)
+[To the Next Page: Important Terms](terms.md)
 
 [Back to Home Page](README.md)
 
